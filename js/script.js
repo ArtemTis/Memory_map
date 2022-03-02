@@ -7,8 +7,3 @@ if (iconMenu) {
         menuBody.classList.toggle('_active');
     })
 }
-
-const func = () => {
-    console.log('Hello')
-}
-func();
